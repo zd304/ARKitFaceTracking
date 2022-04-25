@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a9a27dc5ebb75147a27b138603549e0, type: 3}
+  m_Name: justin01_blendShapeMapping
+  m_EditorClassIdentifier: 
+  coefficientScale: 100
+  mappings:
+  - location: 0
+    name: browDownLeft
+  - location: 1
+    name: browDownRight
+  - location: 2
+    name: browInnerUp
+  - location: 3
+    name: browOuterUpLeft
+  - location: 4
+    name: browOuterUpRight
+  - location: 5
+    name: cheekPuff
+  - location: 6
+    name: cheekSquintLeft
+  - location: 7
+    name: cheekSquintRight
+  - location: 8
+    name: eyeBlinkLeft
+  - location: 9
+    name: eyeBlinkRight
+  - location: 10
+    name: eyeLookDownLeft
+  - location: 11
+    name: eyeLookDownRight
+  - location: 12
+    name: eyeLookInLeft
+  - location: 13
+    name: eyeLookInRight
+  - location: 14
+    name: eyeLookOutLeft
+  - location: 15
+    name: eyeLookOutRight
+  - location: 16
+    name: eyeLookUpLeft
+  - location: 17
+    name: eyeLookUpRight
+  - location: 18
+    name: eyeSquintLeft
+  - location: 19
+    name: eyeSquintRight
+  - location: 20
+    name: eyeWideLeft
+  - location: 21
+    name: eyeWideRight
+  - location: 22
+    name: jawForward
+  - location: 23
+    name: jawLeft
+  - location: 24
+    name: jawOpen
+  - location: 25
+    name: jawRight
+  - location: 26
+    name: mouthClose
+  - location: 27
+    name: mouthDimpleLeft
+  - location: 28
+    name: mouthDimpleRight
+  - location: 29
+    name: mouthFrownLeft
+  - location: 30
+    name: mouthFrownRight
+  - location: 31
+    name: mouthFunnel
+  - location: 32
+    name: mouthLeft
+  - location: 33
+    name: mouthLowerDownLeft
+  - location: 34
+    name: mouthLowerDownRight
+  - location: 35
+    name: mouthPressLeft
+  - location: 36
+    name: mouthPressRight
+  - location: 37
+    name: mouthPucker
+  - location: 38
+    name: mouthRight
+  - location: 39
+    name: mouthRollLower
+  - location: 40
+    name: mouthRollUpper
+  - location: 41
+    name: mouthShrugLower
+  - location: 42
+    name: mouthShrugUpper
+  - location: 43
+    name: mouthSmileLeft
+  - location: 44
+    name: mouthSmileRight
+  - location: 45
+    name: mouthStretchLeft
+  - location: 46
+    name: mouthStretchRight
+  - location: 47
+    name: mouthUpperUpLeft
+  - location: 48
+    name: mouthUpperUpRight
+  - location: 49
+    name: noseSneerLeft
+  - location: 50
+    name: noseSneerRight
+  - location: 51
+    name: NoseSneerLeft

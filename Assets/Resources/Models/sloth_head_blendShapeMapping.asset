@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a9a27dc5ebb75147a27b138603549e0, type: 3}
+  m_Name: sloth_head_blendShapeMapping
+  m_EditorClassIdentifier: 
+  coefficientScale: 100
+  mappings:
+  - location: 0
+    name: blendShape2.browDown_L
+  - location: 1
+    name: blendShape2.browDown_R
+  - location: 2
+    name: blendShape2.browInnerUp
+  - location: 3
+    name: blendShape2.browOuterUp_L
+  - location: 4
+    name: blendShape2.browOuterUp_R
+  - location: 5
+    name: blendShape2.cheekPuff
+  - location: 6
+    name: blendShape2.cheekSquint_L
+  - location: 7
+    name: blendShape2.cheekSquint_R
+  - location: 8
+    name: blendShape2.eyeBlink_L
+  - location: 9
+    name: blendShape2.eyeBlink_R
+  - location: 10
+    name: blendShape2.eyeLookDown_L
+  - location: 11
+    name: blendShape2.eyeLookDown_R
+  - location: 12
+    name: blendShape2.eyeLookIn_L
+  - location: 13
+    name: blendShape2.eyeLookIn_R
+  - location: 14
+    name: blendShape2.eyeLookOut_L
+  - location: 15
+    name: blendShape2.eyeLookOut_R
+  - location: 16
+    name: blendShape2.eyeLookUp_L
+  - location: 17
+    name: blendShape2.eyeLookUp_R
+  - location: 18
+    name: blendShape2.eyeSquint_L
+  - location: 19
+    name: blendShape2.eyeSquint_R
+  - location: 20
+    name: blendShape2.eyeWide_L
+  - location: 21
+    name: blendShape2.eyeWide_R
+  - location: 22
+    name: blendShape2.jawForward
+  - location: 23
+    name: blendShape2.jawLeft
+  - location: 24
+    name: blendShape2.jawOpen
+  - location: 25
+    name: blendShape2.jawRight
+  - location: 26
+    name: blendShape2.mouthClose
+  - location: 27
+    name: blendShape2.mouthDimple_L
+  - location: 28
+    name: blendShape2.mouthDimple_R
+  - location: 29
+    name: blendShape2.mouthFrown_L
+  - location: 30
+    name: blendShape2.mouthFrown_R
+  - location: 31
+    name: blendShape2.mouthFunnel
+  - location: 32
+    name: blendShape2.mouthLeft
+  - location: 33
+    name: blendShape2.mouthLowerDown_L
+  - location: 34
+    name: blendShape2.mouthLowerDown_R
+  - location: 35
+    name: blendShape2.mouthPress_L
+  - location: 36
+    name: blendShape2.mouthPress_R
+  - location: 37
+    name: blendShape2.mouthPucker
+  - location: 38
+    name: blendShape2.mouthRight
+  - location: 39
+    name: blendShape2.mouthRollLower
+  - location: 40
+    name: blendShape2.mouthRollUpper
+  - location: 41
+    name: blendShape2.mouthShrugLower
+  - location: 42
+    name: blendShape2.mouthShrugUpper
+  - location: 43
+    name: blendShape2.mouthSmile_L
+  - location: 44
+    name: blendShape2.mouthSmile_R
+  - location: 45
+    name: blendShape2.mouthStretch_L
+  - location: 46
+    name: blendShape2.mouthStretch_R
+  - location: 47
+    name: blendShape2.MouthUpperUp_L
+  - location: 48
+    name: blendShape2.MouthUpperUp_R
+  - location: 49
+    name: blendShape2.NoseSneer_L
+  - location: 50
+    name: blendShape2.NoseSneer_R
+  - location: 51
+    name: blendShape2.NoseSneer_L
